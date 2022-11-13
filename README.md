@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeSinghh
 - 👀 I’m interested in Coding, creating new and intresting projects
-- 🌱 I’m currently learning Cloud digital leader,C intermediate, C++ intermediate, Python near to advance, DSA
+- 🌱 I’m currently knowing Cloud digital leader,C intermediate, C++ intermediate, Python near to advance, DSA
 - 💞️ I’m looking to collaborate on projects and competitive coding and also all types of hackathon
 - 📫 How to reach me so for contacting me you can email in address codesinghh@gmail.com
 <!---
