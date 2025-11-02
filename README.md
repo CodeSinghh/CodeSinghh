@@ -63,3 +63,11 @@
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/qwen.svg" alt="Qwen" width="45" height="45"/>
 </a>
 </p>
+
+---
+
+<div align="center">
+  <a href="mailto:dhiraj.kr.singh.real@gmail.com">
+    <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Say%20Hello%20%7C%20Email%20Me-1F1F1F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=E34133&color=000000" alt="Email Dhiraj Singh">
+  </a>
+</div>
