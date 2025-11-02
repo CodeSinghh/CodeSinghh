@@ -47,4 +47,19 @@
   <a href="https://cloudflare.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="45" height="45"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/></a>
+  <a href="https://gemini.google.com" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=rnK88i9FvAFO&format=png&color=000000" alt="Gemini" width="45" height="45"/>
+</a>
+
+<a href="https://openai.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" width="45" height="45"/>
+</a>
+
+<a href="https://vercel.com" target="_blank">
+  <img src="https://assets.vercel.com/image/upload/v1662130559/front/favicon/vercel/favicon.ico" alt="Vercel" width="45" height="45"/>
+</a>
+
+<a href="https://qwen.ai" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/qwen.svg" alt="Qwen" width="45" height="45"/>
+</a>
 </p>
