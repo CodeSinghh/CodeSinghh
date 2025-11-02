@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👨‍💻 dhiraj singh
+# 👨‍💻 Dhiraj Singh
 
-**backend/devops engineer** • bangalore, india
+**Backend/Devops engineer** • Bangalore, India
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=394e3f&center=true&vCenter=true&width=600&lines=building+systems+that+don't+crash+at+3am;architecting+backends+that+scale;writing+code+that+ships+to+production;ex-backend%2Fdevops+%40+Heva+AI" alt="Typing SVG" />
 
